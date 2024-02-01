@@ -3,3 +3,5 @@ binary_tree_print.c
 a.out
 [0-9]-*[^.c]
 [0-9][0-9]-*[^.c]
+*~
+.*.sw?
