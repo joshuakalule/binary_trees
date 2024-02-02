@@ -1,7 +1,7 @@
 #include "binary_trees.h"
 
 /**
- * get_height - helper function to signed height
+ * get_height - helper function to signed height.
  * @tree: pointer to the tree to measure
  * Return: signed size
  */
